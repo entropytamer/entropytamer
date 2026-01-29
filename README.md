@@ -13,6 +13,6 @@ Specializing in mechanical engineering and software architecture for energy sect
 - **Web & Infrastructure:** HTML5, JavaScript, CSS3, Django and Docker.
 
 ## 🚀 Current Focus
-Developing the modular Electric Peak Engineering platform for distributed energy resources.
+Developing a modular engineering platform for distributed energy resources.
 
 *"If I have seen further it is by standing on the sholders of Giants."*
