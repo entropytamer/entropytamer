@@ -15,4 +15,4 @@ Specializing in mechanical engineering and software architecture for energy sect
 ## 🚀 Current Focus
 Developing a modular engineering platform for distributed energy resources.
 
-*"If I have seen further it is by standing on the sholders of Giants."*
+*"Lisa, get in here! In this house, we obey the laws of thermodynamics!"* — **Homer Simpson**
